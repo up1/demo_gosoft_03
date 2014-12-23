@@ -1,4 +1,7 @@
 .metadata/
 RemoteSystemsTempFiles/
 ATDD/.project
+web/.project
+web/.classpath
+web/.settings/
 web/build/
